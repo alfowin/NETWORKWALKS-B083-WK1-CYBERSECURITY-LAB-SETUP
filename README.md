@@ -206,5 +206,20 @@ Kali Linux:: https://kali.org/get-kali
 
 Linkedin: www.linkedin.com/in/alfred-owino-a4a34021b
 
+Project Information
+Program Name: Cybersecurity at Networkwalks Week:01
+Project: Cybersecurity & Pentesting Lab Setup 
+Repository: GitHub
+
+Releases
+No releases published
+Contributors
+2
+Alfred Owino (Cybersecurity Intern)
+Waqas Karim CCIE 
+
+
+
+
 
 
