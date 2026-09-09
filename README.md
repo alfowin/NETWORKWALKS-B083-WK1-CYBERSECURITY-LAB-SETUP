@@ -204,7 +204,7 @@ VirtualBox https://virtualbox.org/wiki/Downloads
 
 Kali Linux:: https://kali.org/get-kali
 
-Linkedin:
+Linkedin: www.linkedin.com/in/alfred-owino-a4a34021b
 
 
 
